@@ -11,7 +11,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                bat 'echo Build stage executed'
+                bat 'echo Build stage are executed'
             }
         }
 
